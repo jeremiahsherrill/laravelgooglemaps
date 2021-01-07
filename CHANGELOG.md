@@ -1,13 +1,12 @@
 # Change Log
 
-## 1.2.5 - 1.5.0: 03 May 2016
+## 1.2.5 - 1.5.0: 03 May 2020
 ### Added
-- Examples create
+- Testing Update to laravel 6
 - Configuration
 
 ### Changed
-- Class modifications
-- Installation instructions and usage ReadMe.
+Increased composer test level to 6, change author to me as it appears the other author won't be maintaining
 
 ## 1.8.x - 2.1.1: 31 July 2016
 ### Added
